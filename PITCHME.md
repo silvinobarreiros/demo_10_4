@@ -73,13 +73,8 @@
 <img src="assets/platform_architecture_1.png" style="height: 65%; width: 65%;"/>
 ---
 
-<img src="assets/platform_architecture_2.png" style="height: 100%; width: 100%;"/>
----
-
 <img src="assets/platform_architecture_3.png" style="height: 100%; width: 100%;"/>
 ---
-
-<img src="assets/platform_architecture_4.png" style="height: 100%; width: 100%;"/>
 
 ---?image=assets/gifs/ballmer.gif
 ---
