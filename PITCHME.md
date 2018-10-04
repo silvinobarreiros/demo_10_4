@@ -70,7 +70,7 @@
 <img src="assets/friends/pramod.png" style="height: 40%; width: 40%;"/>
 ---
 
-<img src="assets/platform_architecture_1.png" style="height: 70%; width: 70%;"/>
+<img src="assets/platform_architecture_1.png" style="height: 65%; width: 65%;"/>
 ---
 
 <img src="assets/platform_architecture_2.png" style="height: 80%; width: 80%;"/>
