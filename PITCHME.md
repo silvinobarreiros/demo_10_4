@@ -123,19 +123,6 @@
 <img src="assets/checking/webhooks.png" style="height: 52%; width: 52%;"/>
 ---
 
-<img src="assets/checking/checking_0.png" style="height: 75%; width: 75%;"/>
----
-<img src="assets/checking/checking_1.png" style="height: 75%; width: 75%;"/>
----
-<img src="assets/checking/checking_2.png" style="height: 75%; width: 75%;"/>
----
-<img src="assets/checking/checking_3.png" style="height: 75%; width: 75%;"/>
----
-<img src="assets/checking/checking_4.png" style="height: 75%; width: 75%;"/>
----
-<img src="assets/checking/checking_5.png" style="height: 75%; width: 75%;"/>
----
-
 <img src="assets/platform_architecture_3.png" style="height: 100%; width: 100%;"/>
 ---
 
