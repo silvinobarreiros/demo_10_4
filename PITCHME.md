@@ -79,7 +79,7 @@
 <img src="assets/data_lake.png" style="height: 50%; width: 50%; border: 0; box-shadow: none !important; background: none !important;"/>
 
 @ul
-- @size[50%](John Denver)
+- @size[70%](John Denver)
 - Centralizes all of our data (mixpanel, braze, plaid, green dot)
 - Use case driven views
 @ulend
