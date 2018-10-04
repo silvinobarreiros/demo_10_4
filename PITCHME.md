@@ -102,7 +102,7 @@
 ---
 
 @snap[west]
-<img src="assets/jd_darion/darion_4.png" style="height: 100%; width: 100%; border: 0; box-shadow: none !important; background: none !important;"/>
+<img src="assets/jd_darion/darion_4.png" style="height: 60%; width: 60%; border: 0; box-shadow: none !important; background: none !important;"/>
 @snapend
 
 @snap[east]
