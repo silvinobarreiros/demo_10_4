@@ -51,7 +51,7 @@
 
 ## Agenda
 
-* Data and such
+* Data
 
 * Bank platform
 
@@ -115,7 +115,7 @@
 ---?image=assets/gifs/charlie.gif
 ---
 
-## Some random words
+## Bank Platform
 
 @ul
 - Green Dot ✅
