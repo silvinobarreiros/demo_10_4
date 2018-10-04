@@ -5,15 +5,15 @@
 ---
 
 ## Darion Miller/John Denver.. same same but different
-<img src="assets/jd_darion/jd_darion.jpg" style="height: 40%; width: 40%;"/>
+<img src="assets/jd_darion/jd_darion.jpg" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
 ---
 
 ## DM or JD?
-<img src="assets/jd_darion/darion_1.png" style="height: 40%; width: 40%;"/>
+<img src="assets/jd_darion/darion_1.png" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
 ---
 
 @snap[west]
-<img src="assets/jd_darion/darion_1.png" style="height: 40%; width: 40%;"/>
+<img src="assets/jd_darion/darion_1.png" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
 @snapend
 
 @snap[east]
@@ -22,11 +22,11 @@
 ---
 
 ## DM or JD?
-<img src="assets/jd_darion/jd_1.png" style="height: 40%; width: 40%;"/>
+<img src="assets/jd_darion/jd_1.png" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
 ---
 
 @snap[west]
-<img src="assets/jd_darion/jd_1.png" style="height: 40%; width: 40%;"/>
+<img src="assets/jd_darion/jd_1.png" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
 @snapend
 
 @snap[east]
@@ -35,11 +35,11 @@
 ---
 
 ## DM or JD?
-<img src="assets/jd_darion/darion_2.png" style="height: 40%; width: 40%;"/>
+<img src="assets/jd_darion/darion_2.png" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
 ---
 
 @snap[west]
-<img src="assets/jd_darion/darion_2.png" style="height: 40%; width: 40%;"/>
+<img src="assets/jd_darion/darion_2.png" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
 @snapend
 
 @snap[east]
@@ -108,11 +108,11 @@
 ---
 
 ## DM or JD?
-<img src="assets/jd_darion/darion_4.png" style="height: 40%; width: 40%;"/>
+<img src="assets/jd_darion/darion_4.png" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
 ---
 
 @snap[west]
-<img src="assets/jd_darion/darion_4.png" style="height: 40%; width: 40%;"/>
+<img src="assets/jd_darion/darion_4.png" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
 @snapend
 
 @snap[east]
@@ -151,11 +151,11 @@
 ---
 
 ## DM or JD?
-<img src="assets/jd_darion/darion_3.png" style="height: 40%; width: 40%;"/>
+<img src="assets/jd_darion/darion_3.png" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
 ---
 
 @snap[west]
-<img src="assets/jd_darion/darion_3.png" style="height: 40%; width: 40%;"/>
+<img src="assets/jd_darion/darion_3.png" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
 @snapend
 
 @snap[east]
@@ -164,11 +164,11 @@
 ---
 
 ## DM or JD?
-<img src="assets/jd_darion/jd_3.png" style="height: 40%; width: 40%;"/>
+<img src="assets/jd_darion/jd_3.png" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
 ---
 
 @snap[west]
-<img src="assets/jd_darion/jd_3.png" style="height: 40%; width: 40%;"/>
+<img src="assets/jd_darion/jd_3.png" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
 @snapend
 
 @snap[east]
