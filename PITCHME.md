@@ -74,7 +74,7 @@
 ---
 
 ## Data LAKE
-<img src="assets/data_lake.png" style="height: 70%; width: 70%;"/>
+<img src="assets/data_lake.png" style="height: 75%; width: 75%;"/>
 ---
 
 <img src="assets/data_lake.png" style="height: 50%; width: 50%; border: 0; box-shadow: none !important; background: none !important;"/>
