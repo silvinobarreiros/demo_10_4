@@ -80,7 +80,7 @@
 
 @ul
 - @size[80%](Centralizes all of our data (mixpanel, braze, plaid, green dot, backend events))
-@size[80%](- Use case driven views)
+- @size[80%](Use case driven views)
 @ulend
 ---
 
