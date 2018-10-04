@@ -142,7 +142,7 @@
 <img src="assets/checking/checking_5.png" style="height: 75%; width: 75%;"/>
 ---
 
-<img src="assets/platform_architecture_4.png" style="height: 75%; width: 75%;"/>
+<img src="assets/platform_architecture_4.png" style="height: 100%; width: 100%;"/>
 ---
 
 <img src="assets/checking/platform_architecture_5.png" style="height: 75%; width: 75%;"/>
