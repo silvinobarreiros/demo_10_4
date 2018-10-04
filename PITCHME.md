@@ -139,8 +139,6 @@
 <img src="assets/platform_architecture_3.png" style="height: 100%; width: 100%;"/>
 ---
 
-<img src="assets/checking/platform_architecture_5.png" style="height: 100%; width: 100%;"/>
----
 <img src="assets/checking/platform_architecture_6.png" style="height: 100%; width: 100%;"/>
 ---
 <img src="assets/checking/platform_architecture_7.png" style="height: 100%; width: 100%;"/>
