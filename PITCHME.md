@@ -77,7 +77,7 @@
 <img src="assets/data_lake.png" style="height: 75%; width: 75%;"/>
 ---
 
-## ITS A LAKE... OF Data
+### ITS A LAKE... OF Data
 <img src="assets/data_lake.png" style="height: 50%; width: 50%; border: 0; box-shadow: none !important; background: none !important;"/>
 
 @ul
