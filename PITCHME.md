@@ -54,24 +54,16 @@
 * Bank platform
 ---
 
-## Some random words
-
-@ul
-- Green Dot ✅
-- We're not really the source of truth for anything
-- API Calls + Events
-@ulend
-
 ---?image=assets/gifs/charlie.gif
 ---
 
 ## Data and such
 ---
 
-<img src="assets/core_values.png" style="height: 75%; width: 75%;"/>
+<img src="assets/core_values.png" style="height: 100%; width: 100%;"/>
 ---
 
-<img src="assets/data_driven.png" style="height: 80%; width: 80%;"/>
+<img src="assets/data_driven.png" style="height: 100%; width: 100%;"/>
 ---
 
 <img src="assets/friends/parmod.png" style="height: 40%; width: 40%;"/>
@@ -119,6 +111,15 @@
 ---
 
 ---?image=assets/gifs/charlie.gif
+---
+
+## Some random words
+
+@ul
+- Green Dot ✅
+- We're not really the source of truth for anything
+- API Calls + Events
+@ulend
 ---
 
 ### Service View
