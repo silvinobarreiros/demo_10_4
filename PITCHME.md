@@ -4,7 +4,7 @@
 ---?image=assets/gifs/ballmer.gif
 ---
 
-## Darion Miller/John Denver.. same same but different
+## Darion Miller or John Denver?
 <img src="assets/jd_darion/jd_darion.jpg" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
 ---
 
@@ -22,11 +22,11 @@
 ---
 
 ## DM or JD?
-<img src="assets/jd_darion/jd_1.png" style="height: 65%; width: 65%; border: 0; box-shadow: none !important; background: none !important;"/>
+<img src="assets/jd_darion/jd_1.png" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
 ---
 
 @snap[west]
-<img src="assets/jd_darion/jd_1.png" style="height: 65%; width: 65%; border: 0; box-shadow: none !important; background: none !important;"/>
+<img src="assets/jd_darion/jd_1.png" style="height: 75%; width: 75%; border: 0; box-shadow: none !important; background: none !important;"/>
 @snapend
 
 @snap[east]
@@ -39,7 +39,7 @@
 ---
 
 @snap[west]
-<img src="assets/jd_darion/darion_2.png" style="height: 65%; width: 65%; border: 0; box-shadow: none !important; background: none !important;"/>
+<img src="assets/jd_darion/darion_2.png" style="height: 75%; width: 75%; border: 0; box-shadow: none !important; background: none !important;"/>
 @snapend
 
 @snap[east]
@@ -61,17 +61,17 @@
 - We're not really the source of truth for anything
 - API Calls + Events
 @ulend
----
 
 ---?image=assets/gifs/charlie.gif
 ---
 
 ## Data and such
-
-<img src="assets/core_values.png" style="height: 50%; width: 50%;"/>
 ---
 
-<img src="assets/data_driven.png" style="height: 40%; width: 40%;"/>
+<img src="assets/core_values.png" style="height: 75%; width: 75%;"/>
+---
+
+<img src="assets/data_driven.png" style="height: 80%; width: 80%;"/>
 ---
 
 <img src="assets/friends/parmod.png" style="height: 40%; width: 40%;"/>
