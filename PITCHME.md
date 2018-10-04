@@ -108,7 +108,6 @@
 @snap[east]
 @size[1.5em](Darion Miller)
 @snapend
----
 
 ---?image=assets/gifs/charlie.gif
 ---
