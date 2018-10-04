@@ -79,8 +79,14 @@
 <img src="assets/data_lake.png" style="height: 50%; width: 50%; border: 0; box-shadow: none !important; background: none !important;"/>
 
 @ul
-- @size[80%](Centralizes all of our data (mixpanel, braze, plaid, green dot))
-- @size[80%](Use case driven views)
+- @size[80%](Centralizes all of our data (mixpanel, braze, plaid, green dot, backend events))
+@size[80%](- Use case driven views)
+@ulend
+---
+
+<img src="assets/friends/big_data.png" style="height: 40%; width: 40%;"/>
+@ul
+- @size[80%](mixpanel + braze + bankend events ==> looker)
 @ulend
 ---
 
