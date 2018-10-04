@@ -81,10 +81,8 @@
 @snapend
 
 @snap[east]
-@ul
-- Centralizes all of our data (mixpanel, braze, plaid, green dot)
-- Use case driven views
-@ulend
+* Centralizes all of our data (mixpanel, braze, plaid, green dot)
+* Use case driven views
 @snapend
 ---
 
