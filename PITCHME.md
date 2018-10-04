@@ -83,13 +83,6 @@
 - @size[65%](mixpanel, braze, plaid, green dot, backend events)
 - @size[65%](use case driven views)
 @ulend
----
-
-## Data Science Use Cases
-@ul
-- @size[80%](mixpanel + braze + bankend events ==> looker)
-- @size[80%](backend invest events + transaction history)
-@ulend
 
 ---?image=assets/gifs/ballmer.gif
 ---
@@ -152,6 +145,8 @@
 <img src="assets/checking/platform_architecture_8.png" style="height: 100%; width: 100%;"/>
 ---
 <img src="assets/checking/platform_architecture_10.png" style="height: 100%; width: 100%;"/>
+---
+<img src="assets/checking/opt_in_out.png" style="height: 100%; width: 100%;"/>
 
 ---?image=assets/gifs/ballmer.gif
 ---
