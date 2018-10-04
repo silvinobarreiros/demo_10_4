@@ -79,8 +79,9 @@
 <img src="assets/data_lake.png" style="height: 50%; width: 50%; border: 0; box-shadow: none !important; background: none !important;"/>
 
 @ul
-- @size[60%](Centralizes all of our data (mixpanel, braze, plaid, green dot, backend events\))
-- @size[60%](Use case driven views)
+- @size[60%](centralizes all of our data)
+- @size[65%](mixpanel, braze, plaid, green dot, backend events)
+- @size[60%](use case driven views)
 @ulend
 ---
 
