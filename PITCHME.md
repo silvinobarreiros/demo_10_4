@@ -88,7 +88,7 @@
 ## Data Science Use Cases
 @ul
 - @size[80%](mixpanel + braze + bankend events ==> looker)
-- @size[80%](invest events + transaction history)
+- @size[80%](backend invest events + transaction history)
 @ulend
 
 ---?image=assets/gifs/ballmer.gif
