@@ -80,7 +80,6 @@
 ---
 
 <img src="assets/platform_architecture_4.png" style="height: 100%; width: 100%;"/>
----
 
 ---?image=assets/gifs/ballmer.gif
 ---
