@@ -76,14 +76,12 @@
 <img src="assets/data_lake.png" style="height: 90%; width: 90%;"/>
 ---
 
-@snap[west]
 <img src="assets/data_lake.png" style="height: 60%; width: 60%; border: 0; box-shadow: none !important; background: none !important;"/>
-@snapend
 
-@snap[east]
-* Centralizes all of our data (mixpanel, braze, plaid, green dot)
-* Use case driven views
-@snapend
+@ul
+- Centralizes all of our data (mixpanel, braze, plaid, green dot)
+- Use case driven views
+@ulend
 ---
 
 <img src="assets/platform_architecture_3.png" style="height: 100%; width: 100%;"/>
