@@ -156,7 +156,6 @@
 <img src="assets/checking/platform_architecture_9.png" style="height: 100%; width: 100%;"/>
 ---
 <img src="assets/checking/platform_architecture_10.png" style="height: 100%; width: 100%;"/>
----
 
 ---?image=assets/gifs/ballmer.gif
 ---
