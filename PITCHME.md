@@ -73,6 +73,7 @@
 <img src="assets/platform_architecture_1.png" style="height: 65%; width: 65%;"/>
 ---
 
+## Data LAKE
 <img src="assets/data_lake.png" style="height: 90%; width: 90%;"/>
 ---
 
