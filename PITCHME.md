@@ -2,10 +2,12 @@
 
 ---?image=assets/gifs/charlie.gif
 ---?image=assets/gifs/ballmer.gif
+---?image=assets/gifs/charlie.gif
+---?image=assets/gifs/ballmer.gif
 ---
 
 ## Darion Miller or John Denver?
-<img src="assets/jd_darion/jd_darion.jpg" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
+<img src="assets/jd_darion/jd_darion.jpg" style="height: 50%; width: 50%; border: 0; box-shadow: none !important; background: none !important;"/>
 ---
 
 ## DM or JD?
@@ -39,7 +41,7 @@
 ---
 
 @snap[west]
-<img src="assets/jd_darion/darion_2.png" style="height: 75%; width: 75%; border: 0; box-shadow: none !important; background: none !important;"/>
+<img src="assets/jd_darion/darion_2.png" style="height: 100%; width: 100%; border: 0; box-shadow: none !important; background: none !important;"/>
 @snapend
 
 @snap[east]
@@ -52,12 +54,11 @@
 * Data and such
 
 * Bank platform
----
 
 ---?image=assets/gifs/charlie.gif
 ---
 
-## Data and such
+## Data
 ---
 
 <img src="assets/core_values.png" style="height: 100%; width: 100%;"/>
@@ -69,16 +70,16 @@
 <img src="assets/friends/pramod.png" style="height: 40%; width: 40%;"/>
 ---
 
-<img src="assets/platform_architecture_1.png" style="height: 40%; width: 40%;"/>
+<img src="assets/platform_architecture_1.png" style="height: 80%; width: 80%;"/>
 ---
 
-<img src="assets/platform_architecture_2.png" style="height: 40%; width: 40%;"/>
+<img src="assets/platform_architecture_2.png" style="height: 80%; width: 80%;"/>
 ---
 
-<img src="assets/platform_architecture_3.png" style="height: 40%; width: 40%;"/>
+<img src="assets/platform_architecture_3.png" style="height: 80%; width: 80%;"/>
 ---
 
-<img src="assets/platform_architecture_4.png" style="height: 40%; width: 40%;"/>
+<img src="assets/platform_architecture_4.png" style="height: 80%; width: 80%;"/>
 ---
 
 ---?image=assets/gifs/ballmer.gif
