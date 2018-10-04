@@ -142,6 +142,22 @@
 <img src="assets/checking/checking_5.png" style="height: 75%; width: 75%;"/>
 ---
 
+<img src="assets/platform_architecture_4.png" style="height: 75%; width: 75%;"/>
+---
+
+<img src="assets/checking/platform_architecture_5.png" style="height: 75%; width: 75%;"/>
+---
+<img src="assets/checking/platform_architecture_6.png" style="height: 75%; width: 75%;"/>
+---
+<img src="assets/checking/platform_architecture_7.png" style="height: 75%; width: 75%;"/>
+---
+<img src="assets/checking/platform_architecture_8.png" style="height: 75%; width: 75%;"/>
+---
+<img src="assets/checking/platform_architecture_9.png" style="height: 75%; width: 75%;"/>
+---
+<img src="assets/checking/platform_architecture_10.png" style="height: 75%; width: 75%;"/>
+---
+
 <img src="assets/checking/webhooks.png" style="height: 52%; width: 52%;"/>
 ---
 
