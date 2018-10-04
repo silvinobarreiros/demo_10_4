@@ -66,7 +66,7 @@
 <img src="assets/data_driven.png" style="height: 100%; width: 100%;"/>
 ---
 
-<img src="assets/friends/parmod.png" style="height: 40%; width: 40%;"/>
+<img src="assets/friends/pramod.png" style="height: 40%; width: 40%;"/>
 ---
 
 <img src="assets/platform_architecture_1.png" style="height: 40%; width: 40%;"/>
