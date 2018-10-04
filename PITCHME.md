@@ -85,11 +85,11 @@
 ---
 
 ## DM or JD?
-<img src="assets/jd_darion/jd_2.png" style="height: 40%; width: 40%;"/>
+<img src="assets/jd_darion/jd_2.png" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
 ---
 
 @snap[west]
-<img src="assets/jd_darion/jd_2.png" style="height: 40%; width: 40%;"/>
+<img src="assets/jd_darion/jd_2.png" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
 @snapend
 
 @snap[east]
